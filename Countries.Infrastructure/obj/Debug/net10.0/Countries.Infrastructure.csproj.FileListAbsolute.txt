@@ -1,0 +1,17 @@
+C:\CODE\ProjectTLA\Countries.Infrastructure\bin\Debug\net10.0\Countries.Infrastructure.deps.json
+C:\CODE\ProjectTLA\Countries.Infrastructure\bin\Debug\net10.0\Countries.Infrastructure.dll
+C:\CODE\ProjectTLA\Countries.Infrastructure\bin\Debug\net10.0\Countries.Infrastructure.pdb
+C:\CODE\ProjectTLA\Countries.Infrastructure\bin\Debug\net10.0\Countries.Application.dll
+C:\CODE\ProjectTLA\Countries.Infrastructure\bin\Debug\net10.0\Countries.Domain.dll
+C:\CODE\ProjectTLA\Countries.Infrastructure\bin\Debug\net10.0\Countries.Application.pdb
+C:\CODE\ProjectTLA\Countries.Infrastructure\bin\Debug\net10.0\Countries.Domain.pdb
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\Countries.Infrastructure.csproj.AssemblyReference.cache
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\Countries.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\Countries.Infrastructure.AssemblyInfoInputs.cache
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\Countries.Infrastructure.AssemblyInfo.cs
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\Countries.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\Countrie.45CA6B16.Up2Date
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\Countries.Infrastructure.dll
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\refint\Countries.Infrastructure.dll
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\Countries.Infrastructure.pdb
+C:\CODE\ProjectTLA\Countries.Infrastructure\obj\Debug\net10.0\ref\Countries.Infrastructure.dll

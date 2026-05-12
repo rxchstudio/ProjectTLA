@@ -1,0 +1,11 @@
+C:\CODE\ProjectTLA\Countries.Application\bin\Debug\net10.0\Countries.Application.deps.json
+C:\CODE\ProjectTLA\Countries.Application\bin\Debug\net10.0\Countries.Application.dll
+C:\CODE\ProjectTLA\Countries.Application\bin\Debug\net10.0\Countries.Application.pdb
+C:\CODE\ProjectTLA\Countries.Application\obj\Debug\net10.0\Countries.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\ProjectTLA\Countries.Application\obj\Debug\net10.0\Countries.Application.AssemblyInfoInputs.cache
+C:\CODE\ProjectTLA\Countries.Application\obj\Debug\net10.0\Countries.Application.AssemblyInfo.cs
+C:\CODE\ProjectTLA\Countries.Application\obj\Debug\net10.0\Countries.Application.csproj.CoreCompileInputs.cache
+C:\CODE\ProjectTLA\Countries.Application\obj\Debug\net10.0\Countries.Application.dll
+C:\CODE\ProjectTLA\Countries.Application\obj\Debug\net10.0\refint\Countries.Application.dll
+C:\CODE\ProjectTLA\Countries.Application\obj\Debug\net10.0\Countries.Application.pdb
+C:\CODE\ProjectTLA\Countries.Application\obj\Debug\net10.0\ref\Countries.Application.dll
