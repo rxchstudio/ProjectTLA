@@ -45,9 +45,13 @@ const CountryTable: React.FC<Props> = ({
               textAlign: "left",
             }}
           >
-            <th style={{ ...thStyle, width: "22%", textAlign: "center" }}>Name</th>
+            <th style={{ ...thStyle, width: "22%", textAlign: "center" }}>
+              Name
+            </th>
 
-            <th style={{ ...thStyle, width: "16%", textAlign: "center" }}>Capital</th>
+            <th style={{ ...thStyle, width: "16%", textAlign: "center" }}>
+              Capital
+            </th>
 
             <th
               style={{ ...thStyle, width: "16%", textAlign: "center" }}
@@ -56,13 +60,21 @@ const CountryTable: React.FC<Props> = ({
               Continent{renderSortIcon("continent")}
             </th>
 
-            <th style={{ ...thStyle, width: "10%", textAlign: "center" }}>FIFA Code</th>
+            <th style={{ ...thStyle, width: "10%", textAlign: "center" }}>
+              FIFA Code
+            </th>
 
-            <th style={{ ...thStyle, width: "10%", textAlign: "center" }}>Area</th>
+            <th style={{ ...thStyle, width: "10%", textAlign: "center" }}>
+              Area
+            </th>
 
-            <th style={{ ...thStyle, width: "12%", textAlign: "center" }}>Language</th>
+            <th style={{ ...thStyle, width: "12%", textAlign: "center" }}>
+              Language
+            </th>
 
-            <th style={{ ...thStyle, width: "14%", textAlign: "center" }}>Population</th>
+            <th style={{ ...thStyle, width: "14%", textAlign: "center" }}>
+              Population
+            </th>
           </tr>
         </thead>
 
@@ -81,7 +93,7 @@ const CountryTable: React.FC<Props> = ({
 
               <td style={tdStyle}>{country.continent}</td>
 
-              <td style={tdStyle}>{country.fifaCode}</td>
+              <td style={tdStyle}>{country.fifaCode || "N/A"}</td>
 
               <td style={tdStyle}>{country.area.toLocaleString()}</td>
 
