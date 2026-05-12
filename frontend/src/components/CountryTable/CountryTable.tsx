@@ -45,24 +45,24 @@ const CountryTable: React.FC<Props> = ({
               textAlign: "left",
             }}
           >
-            <th style={{ ...thStyle, width: "22%" }}>Name</th>
+            <th style={{ ...thStyle, width: "22%", textAlign: "center" }}>Name</th>
 
-            <th style={{ ...thStyle, width: "16%" }}>Capital</th>
+            <th style={{ ...thStyle, width: "16%", textAlign: "center" }}>Capital</th>
 
             <th
-              style={{ ...thStyle, width: "16%" }}
+              style={{ ...thStyle, width: "16%", textAlign: "center" }}
               onClick={() => onSort("continent")}
             >
               Continent{renderSortIcon("continent")}
             </th>
 
-            <th style={{ ...thStyle, width: "10%" }}>FIFA Code</th>
+            <th style={{ ...thStyle, width: "10%", textAlign: "center" }}>FIFA Code</th>
 
-            <th style={{ ...thStyle, width: "10%" }}>Area</th>
+            <th style={{ ...thStyle, width: "10%", textAlign: "center" }}>Area</th>
 
-            <th style={{ ...thStyle, width: "12%" }}>Language</th>
+            <th style={{ ...thStyle, width: "12%", textAlign: "center" }}>Language</th>
 
-            <th style={{ ...thStyle, width: "14%" }}>Population</th>
+            <th style={{ ...thStyle, width: "14%", textAlign: "center" }}>Population</th>
           </tr>
         </thead>
 
@@ -75,7 +75,7 @@ const CountryTable: React.FC<Props> = ({
                 transition: "0.2s",
               }}
             >
-              <td style={tdStyle}>{country.name}</td>
+              <td style={nameTdStyle}>{country.name}</td>
 
               <td style={tdStyle}>{country.capital}</td>
 
@@ -111,6 +111,13 @@ const tdStyle: React.CSSProperties = {
   overflow: "hidden",
   textOverflow: "ellipsis",
   whiteSpace: "nowrap",
+};
+
+const nameTdStyle: React.CSSProperties = {
+  ...tdStyle,
+  whiteSpace: "normal",
+  wordBreak: "break-word",
+  lineHeight: "1.4",
 };
 
 export default CountryTable;
