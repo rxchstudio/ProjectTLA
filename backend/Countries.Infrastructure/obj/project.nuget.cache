@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0fpq04+k3Y=",
+  "dgSpecHash": "B1Yaf1JOXc8=",
   "success": true,
-  "projectFilePath": "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
+  "projectFilePath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enivi\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.7\\microsoft.extensions.configuration.10.0.7.nupkg.sha512",
     "C:\\Users\\enivi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",

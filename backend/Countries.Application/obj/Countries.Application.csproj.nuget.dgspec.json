@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj": {}
+    "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj": {
+    "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj",
+        "projectUniqueName": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj",
         "projectName": "Countries.Application",
-        "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj",
+        "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj",
         "packagesPath": "C:\\Users\\enivi\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\ProjectTLA\\Countries.Application\\obj\\",
+        "outputPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

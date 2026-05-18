@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj",
+      "projectUniqueName": "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj",
       "projectName": "Countries.Domain",
-      "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj",
+      "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj",
       "packagesPath": "C:\\Users\\enivi\\.nuget\\packages\\",
-      "outputPath": "C:\\CODE\\ProjectTLA\\Countries.Domain\\obj\\",
+      "outputPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

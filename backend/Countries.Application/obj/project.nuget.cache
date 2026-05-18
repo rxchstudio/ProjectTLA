@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+q4vZCcs6s=",
+  "dgSpecHash": "RVBQAviIwts=",
   "success": true,
-  "projectFilePath": "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj",
+  "projectFilePath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

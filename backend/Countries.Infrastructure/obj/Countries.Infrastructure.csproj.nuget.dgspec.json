@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\Countries.Infrastructure.csproj": {}
+    "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\Countries.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj": {
+    "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj",
+        "projectUniqueName": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj",
         "projectName": "Countries.Application",
-        "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj",
+        "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj",
         "packagesPath": "C:\\Users\\enivi\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\ProjectTLA\\Countries.Application\\obj\\",
+        "outputPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -344,14 +344,14 @@
         }
       }
     },
-    "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj": {
+    "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj",
+        "projectUniqueName": "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj",
         "projectName": "Countries.Domain",
-        "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj",
+        "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj",
         "packagesPath": "C:\\Users\\enivi\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\ProjectTLA\\Countries.Domain\\obj\\",
+        "outputPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -684,14 +684,14 @@
         }
       }
     },
-    "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\Countries.Infrastructure.csproj": {
+    "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\Countries.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
+        "projectUniqueName": "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
         "projectName": "Countries.Infrastructure",
-        "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
+        "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\enivi\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\obj\\",
+        "outputPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -713,11 +713,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj": {
-                "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj"
+              "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj": {
+                "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj"
               },
-              "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj": {
-                "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj"
+              "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj": {
+                "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj"
               }
             }
           }

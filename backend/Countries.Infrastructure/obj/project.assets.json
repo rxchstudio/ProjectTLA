@@ -760,11 +760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
+      "projectUniqueName": "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
       "projectName": "Countries.Infrastructure",
-      "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
+      "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\Countries.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\enivi\\.nuget\\packages\\",
-      "outputPath": "C:\\CODE\\ProjectTLA\\Countries.Infrastructure\\obj\\",
+      "outputPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -786,11 +786,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj": {
-              "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Application\\Countries.Application.csproj"
+            "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj": {
+              "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Application\\Countries.Application.csproj"
             },
-            "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj": {
-              "projectPath": "C:\\CODE\\ProjectTLA\\Countries.Domain\\Countries.Domain.csproj"
+            "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj": {
+              "projectPath": "C:\\CODE\\ProjectTLA\\backend\\Countries.Domain\\Countries.Domain.csproj"
             }
           }
         }
